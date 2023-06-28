@@ -1,0 +1,36 @@
+body {
+    background-color: #3E4756;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.card-body {
+    background-color: #A2ACBD;
+}
+
+.card {
+    margin: 50px;
+}
+
+.accent {
+    background-color: #A2ACBD;
+}
+
+.like {
+    background-color: #8B1848;
+    color: white;
+}
+
+.accent-color {
+    color: #C55178;
+    -webkit-text-stroke: .2px black;
+}
+
+.accent-card {
+    color: #8B1848;
+    -webkit-text-stroke: .2px black;
+}
